@@ -6,11 +6,11 @@
 
 - Depositar
 
--- Consultar Saldo
+- Consultar Saldo
 
--- Sacar
+- Sacar
 
--- Logout
+- Logout
 
 
 
