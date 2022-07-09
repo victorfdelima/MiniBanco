@@ -1,24 +1,24 @@
 # Um mini banco em nodejs
 
-- Funções: 
+###Funções: 
 
-** Criar conta bancária **
+- Criar conta bancária
 
-** Depositar **
+- Depositar
 
-** Consultar Saldo **
+-- Consultar Saldo
 
-** Sacar **
+-- Sacar
 
-** Logout **
+-- Logout
 
 
 
 ## Para inciar o projeto você deverá instalar os módulos
 
-** npm i
+- npm i
 
 ## Para rodar o projeto:
 
-** npm start
+- npm start
  
