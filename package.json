@@ -1,0 +1,26 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "Bank",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorfdelima/projeto1.git"
+  },
+  "type": "module",
+  "author": "Victor Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorfdelima/projeto1/issues"
+  },
+  "homepage": "https://github.com/victorfdelima/projeto1#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.0.0"
+  }
+}
